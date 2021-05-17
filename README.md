@@ -11,3 +11,7 @@ Aplicación en la cual se comparan las dos carpetas obtenidas en Cypress-Resembl
 
 - caso1: para las fotos tomadas en la versión x
 - caso2: para las fotos tomadas en la versión x+1
+
+
+Comando para ejecutar las pruebas 
+node index.js
