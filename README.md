@@ -14,4 +14,4 @@ Aplicación en la cual se comparan las dos carpetas obtenidas en Cypress-Resembl
 
 
 Comando para ejecutar las pruebas 
-node index.js
+- node index.js
